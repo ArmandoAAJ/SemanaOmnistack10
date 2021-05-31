@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="DevRadar" title="DevRadar" src=".github/devradar.png" width="200px" />
+  <img alt="DevRadar" title="DevRadar" src=".github/devradar.svg" width="200px" />
 </h1>
 
 <h3 align="center">
@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/devradar.svg" width="100%">
+  <img alt="Frontend" src=".github/devradar.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
